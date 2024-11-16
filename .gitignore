@@ -1,1 +1,3 @@
-dataset/
+dataset/*
+!dataset/articles_training_small.tsv
+venv/
