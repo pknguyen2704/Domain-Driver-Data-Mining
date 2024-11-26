@@ -1,3 +1,4 @@
 dataset/*
 !dataset/articles_training_small.tsv
 venv/
+.DS_Store
